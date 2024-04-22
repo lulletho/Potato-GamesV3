@@ -35,4 +35,4 @@
 # Miscellaneous Generated Files #
 #################################
 
-/Content/MetaHumans
+Potato/Content/MetaHumans

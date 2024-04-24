@@ -71,15 +71,20 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+
+
+/Potato/Content/MetaHumans
+/Potato/Intermediate
+/Potato/Saved
+/Potato/Content/EuropeanHornbeam
+/Potato/Intermediate
 /Potato/DerivedDataCache
 /Potato/Saved
 /Potato/Intermediate
 /Potato/Content/Kraken
 Potato/Content/StarterContent/Audio/Collapse01.uasset
-Potato/Content/StarterContent/Audio/Collapse01.uasset
-Potato/Content/StarterContent/Audio/Collapse01.uasset
-Potato/Content/StarterContent/Audio/Collapse01.uasset
 Potato/Content/MapV2.umap
 /Potato/Content/EuropeanHornbeam
-Potato/Content/MapV2.umap
-Potato/Content/MapV2.umap

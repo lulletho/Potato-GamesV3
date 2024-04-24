@@ -72,4 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+
+
 /Potato/Content/MetaHumans
+Potato/Content/MapV2.umap
+/Potato/Intermediate
+/Potato/Saved
+/Potato/Content/EuropeanHornbeam
+/Potato/Intermediate
+/Potato/Saved

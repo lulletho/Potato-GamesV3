@@ -74,9 +74,8 @@ DerivedDataCache/*
 
 
 
-
-
-/Potato/Content/MetaHumans
+/Potato/Content/MetaHumans/Common/Face/Face_Archetype.uasset
+/Potato/Content/MetaHumans/Ettore/Face/Ettore_FaceMesh.uasset
 /Potato/Intermediate
 /Potato/Saved
 /Potato/Content/EuropeanHornbeam

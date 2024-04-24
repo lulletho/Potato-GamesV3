@@ -34,3 +34,5 @@
 #################################
 # Miscellaneous Generated Files #
 #################################
+
+Potato/Content/MetaHumans

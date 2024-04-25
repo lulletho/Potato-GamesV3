@@ -86,4 +86,11 @@ DerivedDataCache/*
 /Potato/Content/Kraken
 Potato/Content/StarterContent/Audio/Collapse01.uasset
 Potato/Content/MapV2.umap
-/Potato/Content/EuropeanHornbeam
+Potato/Content/EnemyTest/BP_EnemySpawner.uasset
+/Potato/Content/EnemyTest/Calle/Face/Calle_FaceMesh.uasset
+/Potato/Content/EnemyTest/Edvin/Face/Edvin_FaceMesh.uasset
+/Potato/Content/EnemyTest/Lukas/Face/Lukas_FaceMesh.uasset
+/Potato/Content/EnemyTest/Marcus/Face/Marcus_FaceMesh.uasset
+/Potato/Content/InfinityBladeWeapons
+/Potato/Content/Megascans
+

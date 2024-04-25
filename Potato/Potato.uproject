@@ -35,7 +35,6 @@
 			]
 		},
 		{
-			"Name": "HairStrands",
 			"Name": "Water",
 			"Enabled": true
 		},
@@ -71,8 +70,11 @@
 			]
 		},
 		{
-			"Name": "HairStrands",
 			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
 			"Enabled": true
 		}
 	]

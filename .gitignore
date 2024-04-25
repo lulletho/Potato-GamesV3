@@ -87,12 +87,10 @@ DerivedDataCache/*
 Potato/Content/StarterContent/Audio/Collapse01.uasset
 Potato/Content/MapV2.umap
 Potato/Content/EnemyTest/BP_EnemySpawner.uasset
-/Potato/Content/EnemyTest/Calle/Face
-/Potato/Content/EnemyTest/Edvin/Face
-/Potato/Content/EnemyTest/Lukas/Face
-/Potato/Content/EnemyTest/Marcus/Face
+/Potato/Content/EnemyTest/Calle/Face/Calle_FaceMesh.uasset
+/Potato/Content/EnemyTest/Edvin/Face/Edvin_FaceMesh.uasset
+/Potato/Content/EnemyTest/Lukas/Face/Lukas_FaceMesh.uasset
+/Potato/Content/EnemyTest/Marcus/Face/Marcus_FaceMesh.uasset
 /Potato/Content/InfinityBladeWeapons
-Potato/Content/MapV2.umap
 /Potato/Content/Megascans
-/Potato/Content/MetaHumans
-/Potato/Content/EuropeanHornbeam
+

@@ -71,16 +71,21 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+/Potato/Content/MetaHumans/Common/Face/Face_Archetype.uasset
+/Potato/Content/MetaHumans/Ettore/Face/Ettore_FaceMesh.uasset
+/Potato/Intermediate
+/Potato/Saved
+/Potato/Content/EuropeanHornbeam
+/Potato/Intermediate
 /Potato/DerivedDataCache
 /Potato/Saved
 /Potato/Intermediate
 /Potato/Content/Kraken
 Potato/Content/StarterContent/Audio/Collapse01.uasset
-Potato/Content/StarterContent/Audio/Collapse01.uasset
-Potato/Content/StarterContent/Audio/Collapse01.uasset
-Potato/Content/StarterContent/Audio/Collapse01.uasset
 Potato/Content/MapV2.umap
-Potato/Content/EnemyTest/BP_EnemySpawner.uasset
 Potato/Content/EnemyTest/BP_EnemySpawner.uasset
 /Potato/Content/EnemyTest/Calle/Face
 /Potato/Content/EnemyTest/Edvin/Face
@@ -90,3 +95,4 @@ Potato/Content/EnemyTest/BP_EnemySpawner.uasset
 Potato/Content/MapV2.umap
 /Potato/Content/Megascans
 /Potato/Content/MetaHumans
+/Potato/Content/EuropeanHornbeam
